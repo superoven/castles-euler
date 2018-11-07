@@ -1,0 +1,23 @@
+{
+  "name": "castles",
+  "set": "psc-0.11.7",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "arrays",
+    "console",
+    "eff",
+    "generics-rep",
+    "lists",
+    "math",
+    "maybe",
+    "memoize",
+    "newtype",
+    "prelude",
+    "psci-support",
+    "sets",
+    "spec",
+    "strings",
+    "transformers",
+    "tuples"
+  ]
+}
